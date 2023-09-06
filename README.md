@@ -1,3 +1,4 @@
 # Pickys1
-First repository//
+It's my first repository.
+<br>
 Author - Indupriya Bejugam
