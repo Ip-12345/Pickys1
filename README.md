@@ -1,4 +1,4 @@
-# Pickys1
+# Machine Learning
 It's my first repository.
 <br>
 Author - Indupriya Bejugam
